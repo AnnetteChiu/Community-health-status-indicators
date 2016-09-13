@@ -1,6 +1,6 @@
 # Community-health-status-indicators
 Community Health Status Indicators (CHSI) to Combat Obesity, Heart Disease and Cancer
-Metadata Updated: Apr 06, 2016 
+#Metadata Updated: Apr 06, 2016 
 
 Community Health Status Indicators (CHSI) to combat obesity, heart disease, and cancer are major components of 
 the Community Health Data Initiative. 
@@ -14,3 +14,9 @@ it is imperative to understand that behavioral factors such as obesity, tobacco 
 diet, physical activity, alcohol and drug use, sexual behavior and others substantially contribute to these deaths.
 
 http://catalog.data.gov/dataset/community-health-status-indicators-chsi-to-combat-obesity-heart-disease-and-cancer
+
+(1) Dataset :  Community Health Status Indicators 
+(2) Download the data set as a .csv file.
+(3) Import the data into python with pandas.  Explore the data set.  
+(4) Choose two quantities you're interested in, and pre-process them for a linear regression.  
+
